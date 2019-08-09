@@ -6,7 +6,6 @@
   "bugs": {
     "url": "https://github.com/krakenjs/dust-makara-helpers/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "aproba": "^1.0.1",
     "bcp47-stringify": "^1.0.0",
@@ -17,7 +16,6 @@
     "spud": "^2.0.1",
     "verror": "^1.6.0"
   },
-  "deprecated": false,
   "description": "Internationalization helpers for dust",
   "devDependencies": {
     "bcp47": "^1.1.2",
