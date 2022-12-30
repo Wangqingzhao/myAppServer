@@ -33,7 +33,7 @@
         "grunt-eslint": "22.0.0",
         "grunt-makara-amdify": "^1.0.1",
         "grunt-mocha-cli": "4.0.0",
-        "mocha": "6.2.0",
+        "mocha": "10.2.0",
         "supertest": "4.0.2"
     },
     "browserPackage": {
